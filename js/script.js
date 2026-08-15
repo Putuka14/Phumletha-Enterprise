@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
       event.preventDefault();
 
       // Replace this number with the official Phumletha WhatsApp number.
-      const whatsappNumber = "27000000000";
+      const whatsappNumber = "27677502278";
 
       const name = document.getElementById("name").value.trim();
       const phone = document.getElementById("phone").value.trim();
